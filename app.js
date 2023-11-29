@@ -12,4 +12,4 @@ app.get('/place', (req,res)=>{
     res.send({message:"salem"})
 })
 
-app.listen(300) 
+app.listen(3000) 
